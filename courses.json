@@ -1,0 +1,32 @@
+[
+  {
+    "course_id": "CS101",
+    "title": "Introduction to Programming",
+    "lecturer": "Dr. Amelia White",
+    "credits": 15
+  },
+  {
+    "course_id": "DS201",
+    "title": "Data Structures and Algorithms",
+    "lecturer": "Prof. Liam Smith",
+    "credits": 15
+  },
+  {
+    "course_id": "IR305",
+    "title": "Information Retrieval",
+    "lecturer": "Ayodeji Olusegun IBITOYE",
+    "credits": 15
+  },
+  {
+    "course_id": "BA210",
+    "title": "Business Analytics",
+    "lecturer": "Dr. Grace Hill",
+    "credits": 15
+  },
+  {
+    "course_id": "SE330",
+    "title": "Software Engineering",
+    "lecturer": "Dr. Ethan Clark",
+    "credits": 15
+  }
+]
